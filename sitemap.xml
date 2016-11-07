@@ -3,12 +3,22 @@
 
     <sitemap>
         <loc>http://orveg.com/post-sitemap.xml</loc>
-        <lastmod>2016-11-01T21:19:44.000Z</lastmod>
+        <lastmod>2016-11-07T20:19:17.000Z</lastmod>
     </sitemap>
 
     <sitemap>
         <loc>http://orveg.com/page-sitemap.xml</loc>
         <lastmod>2016-11-02T21:00:37.000Z</lastmod>
+    </sitemap>
+
+    <sitemap>
+        <loc>http://orveg.com/category-sitemap.xml</loc>
+        <lastmod>2016-11-07T20:19:17.000Z</lastmod>
+    </sitemap>
+
+    <sitemap>
+        <loc>http://orveg.com/tag-sitemap.xml</loc>
+        <lastmod>2016-11-07T20:19:17.000Z</lastmod>
     </sitemap>
 
 </sitemapindex>

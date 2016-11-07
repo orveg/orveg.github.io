@@ -4,6 +4,30 @@
   
     
     <entry>
+      <title><![CDATA[Neden wordpress'i bıraktım]]></title>
+      <url>http://orveg.com/blog/Neden-wordpress-i-biraktim/</url>
+      <content type="html"><![CDATA[<p>Uzun bir süre blog yazdıktan sonra 2 seneye yakındır yazı yazmıyordum. Tekrar bi istek geldiğinde de wordpress’e geri dönmek istemedim. Bununla alakalı bi kaç zaman önce bi arkadaşımız bir yazı yazmıştı. Keşke o yazıyı bulabilsem de linkini paylaşsam. Wordpress’in yazı yazmanın dışında artık bir eklenti ve tema yönetmekten yazı yazmaya vakit gelmediğiyle alakalı. Katıldım. Bu aralar node.js ile alakalı çalıştığımdan node.js tabanlı bir blog sistemi kurmak istedim. Google node.js blog framework yazdığımızda ilk gelen hexo.io oldu zaten biraz araştırdığımda bunun gibi güçlü bir sistem olmadığını farkettim. Yıllardır takip ettiğim <a href="http://fatihhayrioglu.com/" target="_blank" rel="external">Fahri Hayrioğlu</a>‘nun sitesinin de <a href="http://jekyllrb.com/" target="_blank" rel="external">jekyll</a> yaptığını gördüm. Fakat ruby değil de node.js tercihim oldu. </p>
+<h3 id="Hexo-io-avantajlari"><a href="#Hexo-io-avantajlari" class="headerlink" title="Hexo.io avantajları"></a>Hexo.io avantajları</h3><ol>
+<li>Site komple html çalıştığı için işlemci ve ram tüketimi yok denecek kadar az. Tabi isterseniz node.js alt yapısını kullanarak da çalıştırabilirsiniz ama ben çok memnun kalmadım. Her sayfa çağırışında tekrar derleme yapıyor. Fakat hexo generator komutuyla oluşturduğunuz blogun html çıktısını alıp kullanabiliyorsunuz ki büyük avantaj</li>
+<li>Node.js kullanıdığı minify kütüphanelerini entegre edip çıktı alırken sisteminize direk entegre edebiliyorsunuz.</li>
+<li>Google pagespeed aracında ilk defa %100 başarılı bir sitem oldu. :)</li>
+<li>Tema hazırlamak baya baya kolay ama ben hazır <a href="https://github.com/probberechts/cactus-dark" target="_blank" rel="external">Cactus Dark</a> temasını kullandım ileride kendi keyfime özel bir tema yapabilirim.</li>
+<li>Deploy özelliği sayesinde git ve github’a direk blogunuzu commitleyebiliyorsunuz. <a href="http://orveg.github.io/" target="_blank" rel="external">orveg.github.io</a> sayfasına otomatik olarak deploy edip oradan da yayın yapabiliyorum artık.</li>
+<li>Migration araçları sayesinde farklı platformlardan geçisinizi baya baya kolaylaştırdığını da belirtmek isterim <a href="https://hexo.io/docs/migration.html" target="_blank" rel="external">Buraya</a> tıklayarak inceleyebilirsiniz.</li>
+</ol>
+<h3 id="Dezavantajlari"><a href="#Dezavantajlari" class="headerlink" title="Dezavantajları"></a>Dezavantajları</h3><ol>
+<li>Çinli kardeşimizin biri hazırlamış bu sebeple çok fazla topluluk yok var olanları çoğuda çince konuşuyor. Fakat sorunlarımın hepsinin cevabına bir şekilde ulaştım. Dert edilecek gibi değil.</li>
+<li>Bu kadar :) </li>
+</ol>
+<p>Yukarıda yazdıklarım belirli bir sürenin sonunda edindiğim bilgileri kapsıyor elbette daha fazla kullandıkça sorunlar daha ortaya çıkacaktır.</p>
+<p>Tavsiye eder misin diyecek olanlara wordpressten sıkılmış yazılımcı arkadaşlara kesinlikle tavsiye ederim. Elbette biraz üst düzey bilgi istiyor. Yani normal bir kullanıcının ben hexo.io alt yapılı bir yerde yazı yazacağım demesi dert olabilir. Ama işiniz yazılımsa bence doğru adreslerden birisi hexo.io</p>
+<p>Şimdi bu yazıyı yazdıktan sonra komut satırına tek yazmam gereken şey</p>
+<pre><code>hexo generate --deploy
+</code></pre><p>daha sonra yazım hem web sitemde hemde github sayfamda yayında olacak daha ne olsun :) </p>
+]]></content>
+    </entry>
+    
+    <entry>
       <title><![CDATA[Kaçıncı ilk yazı acaba?]]></title>
       <url>http://orveg.com/blog/Kacinci-ilk-yazi-acaba/</url>
       <content type="html"><![CDATA[<p>Merhaba Dünyalı<br>Bütün açılan blog sitelerinin varsayılan yazısı. Bunu o kadar fazla gördüm ki yıllarca bir sürü blog sitesi açıp çoğunu tarihin çöplüne gömdüm. Fakat artık wordpress’ten kurtulup node.js alt yapılı Hexo blogla yazılarımı tüm hızıyla yazacağım. Varsın olsun seosu olmasın zaten arayan illaki bulacatır.</p>

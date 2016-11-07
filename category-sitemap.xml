@@ -7,19 +7,10 @@
     </url>
 
     <url>
-        <loc>http://orveg.com/blog/Neden-wordpress-i-biraktim/</loc>
+        <loc>http://orveg.com/categories/Yazilim/</loc>
         <lastmod>2016-11-07T20:19:17.000Z</lastmod>
         <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>http://orveg.com/blog/Kacinci-ilk-yazi-acaba/</loc>
-        <lastmod>2016-11-01T21:19:44.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
+        <priority>0.2</priority>
     </url>
 
 </urlset>
