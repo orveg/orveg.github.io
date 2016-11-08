@@ -3,7 +3,14 @@
 
     <url>
         <loc>http://orveg.com/tags/hexo-io/</loc>
-        <lastmod>2016-11-07T20:19:17.000Z</lastmod>
+        <lastmod>2016-11-08T19:33:41.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://orveg.com/tags/openvpn/</loc>
+        <lastmod>2016-11-08T19:41:56.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

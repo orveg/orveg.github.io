@@ -4,8 +4,20 @@
   
     
     <entry>
+      <title><![CDATA[Vpn kurdum, sasüre karşı tavrımı koydum]]></title>
+      <url>http://orveg.com/blog/vpn-kurdum-sansure-kars%C4%B1-tavrimi-koydum/</url>
+      <content type="html"><![CDATA[<h2 id="Ulkede-durum-karisik"><a href="#Ulkede-durum-karisik" class="headerlink" title="Ülkede durum karışık"></a>Ülkede durum karışık</h2><p>Seçilmişlerin hapse atıldığı, ötv zamlarının havada uçuştuğu, dolar, euro kurunun çılgın attığı şu günlerde sosyal medya yasaklarıylada ileri demokrasiye dört nala koşarken, vpn servislerini de yasaklayarak en ileri demokrasiyi görmüş olduk.</p>
+<p>İnternet’im yerlerde sürünürken vpn servislerim çalışmazken kafam attı ve kendi vpn servisimi kurdum. Çalıştığım <a href="https://www.hetzner.de/" target="_blank" rel="external">hetzner</a> firmasından 3.9 euro aylık bir vps kiralayıp OpenVPN kurdum. Bunun kurulumuyla alakalı bişey yazmak istemiyorum tonla bilgi var internette. Fakat acayip bir rahatlık oldu artık bilgilerim şifreli gidip şifreli olarak geri geliyor ve sunucu bana ait, Türkiye Cumhuriyeti beni evimden tek bir çıkış görüyor, Bir adet Almanya İP’si umrumda mı değil bunu yaptıranlar utansın.</p>
+<p>2 kişi ücretsiz bir şekilde sadece 3.9 Euro vps sunucu ücreti ödeyerek 5TB hizmeti satın alıyoruz. Aklı olan herkese de bireysel olarak VPN’lenmenizi tavsiye ediyorum.</p>
+<blockquote>
+<p>Bu ülkede bir gün herkesin kendi vpn sunucusu olacak!!!</p>
+</blockquote>
+]]></content>
+    </entry>
+    
+    <entry>
       <title><![CDATA[Neden wordpress'i bıraktım]]></title>
-      <url>http://orveg.com/blog/Neden-wordpress-i-biraktim/</url>
+      <url>http://orveg.com/blog/neden-wordpressi-biraktim/</url>
       <content type="html"><![CDATA[<p>Uzun bir süre blog yazdıktan sonra 2 seneye yakındır yazı yazmıyordum. Tekrar bi istek geldiğinde de wordpress’e geri dönmek istemedim. Bununla alakalı bi kaç zaman önce bi arkadaşımız bir yazı yazmıştı. Keşke o yazıyı bulabilsem de linkini paylaşsam. Wordpress’in yazı yazmanın dışında artık bir eklenti ve tema yönetmekten yazı yazmaya vakit gelmediğiyle alakalı. Katıldım. Bu aralar node.js ile alakalı çalıştığımdan node.js tabanlı bir blog sistemi kurmak istedim. Google node.js blog framework yazdığımızda ilk gelen hexo.io oldu zaten biraz araştırdığımda bunun gibi güçlü bir sistem olmadığını farkettim. Yıllardır takip ettiğim <a href="http://fatihhayrioglu.com/" target="_blank" rel="external">Fahri Hayrioğlu</a>‘nun sitesinin de <a href="http://jekyllrb.com/" target="_blank" rel="external">jekyll</a> yaptığını gördüm. Fakat ruby değil de node.js tercihim oldu. </p>
 <h3 id="Hexo-io-avantajlari"><a href="#Hexo-io-avantajlari" class="headerlink" title="Hexo.io avantajları"></a>Hexo.io avantajları</h3><ol>
 <li>Site komple html çalıştığı için işlemci ve ram tüketimi yok denecek kadar az. Tabi isterseniz node.js alt yapısını kullanarak da çalıştırabilirsiniz ama ben çok memnun kalmadım. Her sayfa çağırışında tekrar derleme yapıyor. Fakat hexo generator komutuyla oluşturduğunuz blogun html çıktısını alıp kullanabiliyorsunuz ki büyük avantaj</li>
@@ -29,7 +41,7 @@
     
     <entry>
       <title><![CDATA[Kaçıncı ilk yazı acaba?]]></title>
-      <url>http://orveg.com/blog/Kacinci-ilk-yazi-acaba/</url>
+      <url>http://orveg.com/blog/kacinci-ilk-yazi-acaba/</url>
       <content type="html"><![CDATA[<p>Merhaba Dünyalı<br>Bütün açılan blog sitelerinin varsayılan yazısı. Bunu o kadar fazla gördüm ki yıllarca bir sürü blog sitesi açıp çoğunu tarihin çöplüne gömdüm. Fakat artık wordpress’ten kurtulup node.js alt yapılı Hexo blogla yazılarımı tüm hızıyla yazacağım. Varsın olsun seosu olmasın zaten arayan illaki bulacatır.</p>
 <blockquote>
 <p>Uzun bir aradan sonra tekrar merhaba artık burayı daha fazla kullanacağım.</p>
