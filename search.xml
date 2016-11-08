@@ -4,7 +4,7 @@
   
     
     <entry>
-      <title><![CDATA[Vpn kurdum, sasüre karşı tavrımı koydum]]></title>
+      <title><![CDATA[Vpn kurdum, sansüre karşı tavrımı koydum]]></title>
       <url>http://orveg.com/blog/vpn-kurdum-sansure-kars%C4%B1-tavrimi-koydum/</url>
       <content type="html"><![CDATA[<h2 id="Ulkede-durum-karisik"><a href="#Ulkede-durum-karisik" class="headerlink" title="Ülkede durum karışık"></a>Ülkede durum karışık</h2><p>Seçilmişlerin hapse atıldığı, ötv zamlarının havada uçuştuğu, dolar, euro kurunun çılgın attığı şu günlerde sosyal medya yasaklarıylada ileri demokrasiye dört nala koşarken, vpn servislerini de yasaklayarak en ileri demokrasiyi görmüş olduk.</p>
 <p>İnternet’im yerlerde sürünürken vpn servislerim çalışmazken kafam attı ve kendi vpn servisimi kurdum. Çalıştığım <a href="https://www.hetzner.de/" target="_blank" rel="external">hetzner</a> firmasından 3.9 euro aylık bir vps kiralayıp OpenVPN kurdum. Bunun kurulumuyla alakalı bişey yazmak istemiyorum tonla bilgi var internette. Fakat acayip bir rahatlık oldu artık bilgilerim şifreli gidip şifreli olarak geri geliyor ve sunucu bana ait, Türkiye Cumhuriyeti beni evimden tek bir çıkış görüyor, Bir adet Almanya İP’si umrumda mı değil bunu yaptıranlar utansın.</p>
